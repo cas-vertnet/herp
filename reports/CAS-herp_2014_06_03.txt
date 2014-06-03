@@ -1,0 +1,483 @@
+Report for Institution Code CAS, Resource herp
+Usage stats for May, 2014, generated on 2014/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 524
+Number of records retrieved in searches: 13760
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 9
+	Country: Brazil ; Times: 10
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 2
+	Country: China ; Times: 3
+	Country: Colombia ; Times: 3
+	Country: Costa Rica ; Times: 1
+	Country: Denmark ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Ireland ; Times: 3
+	Country: Ivory Coast ; Times: 1
+	Country: Mexico ; Times: 71
+	Country: Panama ; Times: 4
+	Country: Taiwan ; Times: 1
+	Country: Turkey ; Times: 24
+	Country: United Kingdom ; Times: 3
+	Country: United States ; Times: 327
+	Country: Unknown ; Times: 57
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-01 ; Times: 15
+	Date: 2014-05-02 ; Times: 4
+	Date: 2014-05-03 ; Times: 2
+	Date: 2014-05-04 ; Times: 9
+	Date: 2014-05-05 ; Times: 9
+	Date: 2014-05-06 ; Times: 19
+	Date: 2014-05-07 ; Times: 39
+	Date: 2014-05-08 ; Times: 21
+	Date: 2014-05-09 ; Times: 7
+	Date: 2014-05-10 ; Times: 4
+	Date: 2014-05-11 ; Times: 6
+	Date: 2014-05-12 ; Times: 21
+	Date: 2014-05-13 ; Times: 43
+	Date: 2014-05-14 ; Times: 9
+	Date: 2014-05-15 ; Times: 50
+	Date: 2014-05-16 ; Times: 20
+	Date: 2014-05-17 ; Times: 6
+	Date: 2014-05-18 ; Times: 5
+	Date: 2014-05-19 ; Times: 6
+	Date: 2014-05-20 ; Times: 23
+	Date: 2014-05-21 ; Times: 15
+	Date: 2014-05-22 ; Times: 11
+	Date: 2014-05-23 ; Times: 22
+	Date: 2014-05-24 ; Times: 25
+	Date: 2014-05-25 ; Times: 59
+	Date: 2014-05-26 ; Times: 27
+	Date: 2014-05-27 ; Times: 7
+	Date: 2014-05-28 ; Times: 7
+	Date: 2014-05-29 ; Times: 19
+	Date: 2014-05-30 ; Times: 13
+	Date: 2014-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"Panama" specificepithet:xanthostigma genus:Lepidoblepharis" ; Times: 1
+	Query: "Ophryacus" ; Times: 1
+	Query: "genus:Crotalus" ; Times: 1
+	Query: "Crocodylus cataphractus" ; Times: 1
+	Query: "stateprovince:"Herrera" country:"Panama" class:Reptilia" ; Times: 1
+	Query: "county:"Plumas" stateprovince:"California"" ; Times: 1
+	Query: "aspidoscelis gularis zacatecas" ; Times: 1
+	Query: "country:"Panama" genus:Stenorrhina" ; Times: 2
+	Query: "Spea multiplicata" ; Times: 1
+	Query: "stomach contents" ; Times: 2
+	Query: "Sceloporus aeneus stateprovince:"Mexico"" ; Times: 1
+	Query: "country:"Panama" genus:Scinax" ; Times: 1
+	Query: "country:"Panama" specificepithet:triangulum genus:Lampropeltis" ; Times: 1
+	Query: "oso" ; Times: 1
+	Query: "stateprovince:"Chiriqui" country:"Panama" genus:Anolis" ; Times: 1
+	Query: "bufo marinus 1975" ; Times: 2
+	Query: "stateprovince:"Chiriqui" country:"Panama" class:Reptilia" ; Times: 1
+	Query: "thamnophis sirtalis virginia" ; Times: 2
+	Query: "eumeces" ; Times: 1
+	Query: "country:"Panama" genus:Ninia" ; Times: 1
+	Query: "triturus" ; Times: 1
+	Query: "country:"Panama" specificepithet:bolivianus genus:Leptodactylus" ; Times: 1
+	Query: "Ancylocranium" ; Times: 1
+	Query: "Rwanda" ; Times: 1
+	Query: "Barisia imbricata stateprovince:"Mexico"" ; Times: 1
+	Query: "gbif" ; Times: 2
+	Query: "country:"madagascar"" ; Times: 2
+	Query: "mappable:1 distance(location,geopoint(34.186813861893455,-118.40858459472656))<100000" ; Times: 1
+	Query: "anolis" ; Times: 2
+	Query: "country:"Panama" specificepithet:aeneus genus:Oxybelis" ; Times: 3
+	Query: "Pseudoeurycea bellii" ; Times: 2
+	Query: "stateprovince:"Mississippi"" ; Times: 1
+	Query: "country:"Panama" specificepithet:constrictor genus:Boa" ; Times: 1
+	Query: "country:"Panama" specificepithet:nigrocinctus genus:Micrurus" ; Times: 1
+	Query: "country:"Panama" specificepithet:speciosus genus:Gymnophthalmus" ; Times: 1
+	Query: "FMNH 1439" ; Times: 1
+	Query: "agkistrodon" ; Times: 1
+	Query: "country:"Panama" specificepithet:lionotus genus:Anolis" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 4
+	Query: "Geochelone carbonaria" ; Times: 2
+	Query: "texas" ; Times: 1
+	Query: "cregoi" ; Times: 1
+	Query: "boulder" ; Times: 1
+	Query: "manis" ; Times: 1
+	Query: "country:"Panama" genus:Liophis" ; Times: 2
+	Query: "sceloporus torquatus" ; Times: 1
+	Query: "hastypestatus:1" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "UMMZ" ; Times: 2
+	Query: "country:"Panama" specificepithet:unimarginata genus:Mabuya" ; Times: 1
+	Query: "Eigenmann" ; Times: 1
+	Query: "Michoacan Zamora reptilia" ; Times: 1
+	Query: "crotalus viridis" ; Times: 2
+	Query: "country:"Panama" specificepithet:cenchoa genus:Imantodes" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(34.3797125804622,-119.24560546875))<100000" ; Times: 1
+	Query: "eumeces laticeps" ; Times: 1
+	Query: "phyllodactylus nocticolus" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(34.44202613062471,-119.0756607055664))<6757.5914596749" ; Times: 1
+	Query: "megophrys" ; Times: 2
+	Query: "Rana" ; Times: 3
+	Query: "holotype hastypestatus:1" ; Times: 1
+	Query: "humboldt state university" ; Times: 1
+	Query: "phrynosoma" ; Times: 2
+	Query: "san francisco garter snake" ; Times: 2
+	Query: "country:"Panama" specificepithet:bizona genus:Erythrolamprus" ; Times: 1
+	Query: "Teocelo" ; Times: 1
+	Query: "FMNH 1" ; Times: 1
+	Query: "country:"Panama" specificepithet:annulata genus:Leptodeira" ; Times: 1
+	Query: "Hyla gratiosa" ; Times: 3
+	Query: "Bufo valliceps" ; Times: 2
+	Query: "country:"Panama" specificepithet:clelia genus:Clelia" ; Times: 2
+	Query: "country:"Panama" genus:Bothriechis" ; Times: 2
+	Query: "amphibia" ; Times: 1
+	Query: "nerodia" ; Times: 1
+	Query: "Storeria storerioides" ; Times: 2
+	Query: "Drymarchon melanurus" ; Times: 1
+	Query: "crane hollow" ; Times: 1
+	Query: "Bothriopsis" ; Times: 1
+	Query: "Eryx" ; Times: 1
+	Query: "stateprovince:"Colon" country:"Panama" class:Amphibia" ; Times: 1
+	Query: "194" ; Times: 1
+	Query: "MCZ 3301" ; Times: 2
+	Query: "bufo marinus 1996" ; Times: 1
+	Query: "Atropoides" ; Times: 1
+	Query: "country:"Panama" specificepithet:lansbergii genus:Porthidium" ; Times: 2
+	Query: "Michoacan Coalcoman reptilia" ; Times: 1
+	Query: "ara" ; Times: 1
+	Query: "Bothrops" ; Times: 2
+	Query: "CAIMAN CROCODILUS 2001" ; Times: 1
+	Query: ""Arizona elegans"" ; Times: 2
+	Query: "PECTORALIS type:specimen AND (NOT AVES)" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(34.472599425831355,-119.44507598876953))<100000" ; Times: 1
+	Query: "San Luis Obispo Taricha torosa" ; Times: 1
+	Query: "distance(location,geopoint(1.625758360412755,0.90087890625))<408070" ; Times: 1
+	Query: "Gambelia" ; Times: 2
+	Query: "country:"Panama" specificepithet:pustulosus genus:Physalaemus" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 2
+	Query: "country:"Panama" genus:Coniophanes" ; Times: 1
+	Query: "mcz herp" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(34.16295449004889,-118.00277709960938))<8154.80069913644" ; Times: 1
+	Query: "Micruroides" ; Times: 1
+	Query: "kinosternon subrubrum steindachneri" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(34.164090803573146,-118.00689697265625))<8170.3746424486" ; Times: 1
+	Query: "country:"Panama" specificepithet:platurus genus:Pelamis" ; Times: 1
+	Query: "MCZ 4044" ; Times: 3
+	Query: "country:"Panama" specificepithet:nebulata genus:Sibon" ; Times: 1
+	Query: "Mulcahy" ; Times: 1
+	Query: "leptopelis nordequatorialis" ; Times: 5
+	Query: "stateprovince:"louisiana" mappable:1" ; Times: 1
+	Query: "country:"Panama" specificepithet:inguinalis genus:Colostethus" ; Times: 4
+	Query: "Charina" ; Times: 6
+	Query: "north-west territories" ; Times: 1
+	Query: "bishop museum" ; Times: 1
+	Query: "Porthidium yucatanicum" ; Times: 2
+	Query: "tantilla gracilis" ; Times: 2
+	Query: "charina bottae" ; Times: 1
+	Query: "country:"Panama" specificepithet:corais genus:Drymarchon" ; Times: 1
+	Query: "Rana palmipes" ; Times: 1
+	Query: "Geocalamus acutus" ; Times: 2
+	Query: "zacatecas sauria" ; Times: 4
+	Query: "Rana yavapaiensis (Arizona)" ; Times: 1
+	Query: "Rana aurora" ; Times: 2
+	Query: "country:"Panama" specificepithet:callidryas genus:Agalychnis" ; Times: 1
+	Query: "Atelopus" ; Times: 1
+	Query: "Gastrotheca riobambae" ; Times: 1
+	Query: "bufo marinus 1985" ; Times: 1
+	Query: "Urosaurus" ; Times: 1
+	Query: "horse" ; Times: 1
+	Query: "bufo marinus 1980" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(35.56798045801209,-116.78466796875))<100000" ; Times: 1
+	Query: "country:"Panama" specificepithet:cenchria genus:Epicrates" ; Times: 1
+	Query: "california" ; Times: 2
+	Query: "country:"Panama" specificepithet:percarinatum genus:Dendrophidion" ; Times: 1
+	Query: "Cerrophidion" ; Times: 1
+	Query: "bufo marinus 2010" ; Times: 1
+	Query: "country:"Panama" genus:Kinosternon" ; Times: 1
+	Query: "leptopelis macrotis" ; Times: 2
+	Query: "herp" ; Times: 2
+	Query: "Abronia deppii" ; Times: 1
+	Query: "megophrys parva" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(34.3797125804622,-119.24560546875))<4177" ; Times: 1
+	Query: "stateprovince:"Louisiana" year <= 2012 mappable:1" ; Times: 1
+	Query: "butterfly" ; Times: 1
+	Query: "country:"Panama" specificepithet:venulosa genus:Phrynohyas" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+	Query: "stateprovince:"Chiriqui" country:"Panama" genus:Hydromorphus" ; Times: 1
+	Query: "Thamnophis scalaris stateprovince:"Mexico"" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(34.884804432927645,-117.0703125))<6719.741066741895" ; Times: 1
+	Query: "country:"Panama" genus:Spilotes" ; Times: 1
+	Query: "crocodylus" ; Times: 2
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(34.84987503195418,-121.53076171875))<100000" ; Times: 1
+	Query: "distance(location,geopoint(34.41937202924269,-118.79997253417969))<100000" ; Times: 2
+	Query: "CAIMAN" ; Times: 1
+	Query: "ambystoma ordinarium" ; Times: 3
+	Query: "leptopelis notatus" ; Times: 4
+	Query: "MR-11" ; Times: 1
+	Query: "county:"Plumas" stateprovince:"California" (peromyscus) tissue:1" ; Times: 1
+	Query: "country:"Panama" genus:Rhadinaea" ; Times: 1
+	Query: "Abronia lythrochila" ; Times: 3
+	Query: "country:"Panama" specificepithet:fissidens genus:Coniophanes" ; Times: 1
+	Query: "country:"Panama" specificepithet:southi genus:Leposoma" ; Times: 1
+	Query: "leptopelis rufus" ; Times: 3
+	Query: "4128" ; Times: 2
+	Query: "country:"Panama" specificepithet:auratus genus:Anolis" ; Times: 1
+	Query: "Graptemys barbouri" ; Times: 3
+	Query: "Thamnophis sirtalis tetrataenia" ; Times: 1
+	Query: "country:"Panama" specificepithet:flavitorques genus:Enulius" ; Times: 1
+	Query: "country:"Panama" specificepithet:fitzingeri genus:Eleutherodactylus" ; Times: 1
+	Query: "country:"Panama" specificepithet:basiliscus genus:Basiliscus" ; Times: 1
+	Query: "CAIMAN CROCODILUS 1975" ; Times: 1
+	Query: "country:"Panama" specificepithet:iguana genus:Iguana" ; Times: 1
+	Query: "CA lizard" ; Times: 1
+	Query: "eumeces fasciatus" ; Times: 1
+	Query: "Agkistrodon" ; Times: 3
+	Query: ""Masticophis flagellum"" ; Times: 2
+	Query: "ungaliophis" ; Times: 1
+	Query: "country:"Panama" genus:Pseustes" ; Times: 1
+	Query: ""Crotalus cerastes"" ; Times: 1
+	Query: "Phyllodactylus papenfussi" ; Times: 4
+	Query: "Glen Rose" ; Times: 1
+	Query: "genus:ambystoma" ; Times: 1
+	Query: "eryx jaculus" ; Times: 24
+	Query: "eurycea lucifuga" ; Times: 4
+	Query: "sartain" ; Times: 1
+	Query: ""reithrodontomys megalotis"" ; Times: 3
+	Query: "callisaurus draconoides" ; Times: 1
+	Query: "Carp" ; Times: 1
+	Query: "country:"Panama" specificepithet:exoletus genus:Chironius" ; Times: 1
+	Query: "genus:Urosaurus mappable:1" ; Times: 1
+	Query: "thamnophis sirtalis tetrataenia" ; Times: 1
+	Query: "frog" ; Times: 1
+	Query: "country:"Panama" genus:Anolis" ; Times: 1
+	Query: "boulder 1958" ; Times: 1
+	Query: "Anura" ; Times: 1
+	Query: "Bipes canaliculatus" ; Times: 4
+	Query: "Cynisca" ; Times: 1
+	Query: "Nevado de Toluca" ; Times: 2
+	Query: "ateles" ; Times: 2
+	Query: "type:specimen stateprovince:"Michigan"" ; Times: 1
+	Query: "stateprovince:"Herrera" country:"Panama" genus:Leptodeira" ; Times: 1
+	Query: "louisiana" ; Times: 1
+	Query: "institutioncode:cas" ; Times: 1
+	Query: "ixodes" ; Times: 2
+	Query: "country:"Panama" genus:Tantilla" ; Times: 1
+	Query: "country:"Uganda" class:Amphibia distance(location,geopoint(-0.7250783020332547,32.596435546875))<100000" ; Times: 1
+	Query: "Thamnophis eques stateprovince:"Mexico"" ; Times: 1
+	Query: "deer" ; Times: 1
+	Query: "country:"Panama" specificepithet:degenhardtii genus:Stenorrhina" ; Times: 1
+	Query: "1860" ; Times: 1
+	Query: "Barisia imbricata" ; Times: 1
+	Query: "country:"Panama" specificepithet:similis genus:Ctenosaura" ; Times: 1
+	Query: "country:"Panama" specificepithet:albirostris genus:Liotyphlops" ; Times: 1
+	Query: "gambelia silus" ; Times: 2
+	Query: "country:"Panama" specificepithet:crocodilus genus:Caiman" ; Times: 2
+	Query: "university of kansas" ; Times: 1
+	Query: "country:"Panama" specificepithet:poecilochilus genus:Leptodactylus" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(34.43296522689834,-119.14260864257812))<4176.546295504921" ; Times: 1
+	Query: "TNHC" ; Times: 1
+	Query: "reithrodontomys" ; Times: 1
+	Query: "Michoacan Hidalgo reptilia" ; Times: 1
+	Query: "bufo marinus ecuador" ; Times: 1
+	Query: "princeton" ; Times: 1
+	Query: "country:"Panama" genus:Agalychnis" ; Times: 1
+	Query: "Dalophia pistillum" ; Times: 1
+	Query: "MIcrurus fulvius" ; Times: 1
+	Query: "country:"Panama" specificepithet:lateralis genus:Bothriechis" ; Times: 1
+	Query: "stateprovince:"Cocle" country:"Panama" class:Reptilia" ; Times: 5
+	Query: "leptopelis millsoni" ; Times: 3
+	Query: "Arizona elegans" ; Times: 1
+	Query: "country:"Uganda" class:Amphibia distance(location,geopoint(2.1088986592431382,31.48681640625))<100000" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 2
+	Query: "gabon" ; Times: 1
+	Query: "country:"Panama" specificepithet:humilis genus:Anolis" ; Times: 1
+	Query: "bufo marinus ecuador 2014" ; Times: 1
+	Query: "mr" ; Times: 1
+	Query: "bufo marinus 2011" ; Times: 1
+	Query: "leptopelis palmatus" ; Times: 2
+	Query: "country:"Panama" specificepithet:Lineolatus genus:Sphaerodactylus" ; Times: 2
+	Query: "bufo marinus 2012" ; Times: 1
+	Query: "gastrotheca riobambae" ; Times: 1
+	Query: "ummz Sceloporus mappable:1" ; Times: 1
+	Query: "Michoacan Ocampo reptilia" ; Times: 1
+	Query: "v" ; Times: 7
+	Query: "country:"Panama" specificepithet:fragilis genus:Leptodactylus" ; Times: 1
+	Query: "sam" ; Times: 1
+	Query: "mexico" ; Times: 1
+	Query: "country:"Panama" specificepithet:scorpioides genus:Kinosternon" ; Times: 1
+	Query: "Anolis" ; Times: 2
+	Query: "country:"Panama" specificepithet:pullatus genus:Spilotes" ; Times: 1
+	Query: "crotalus" ; Times: 2
+	Query: "Crotalus" ; Times: 1
+	Query: "country:"Panama" specificepithet:lineolatus genus:Sphaerodactylus" ; Times: 1
+	Query: "Arteaga reptilia" ; Times: 1
+	Query: "philodryas" ; Times: 2
+	Query: ""Sauromalus ater"" ; Times: 1
+	Query: "RAna draytonii" ; Times: 1
+	Query: "leptopelis boulengeri" ; Times: 3
+	Query: "Sistrurus" ; Times: 1
+	Query: "Eumeces copei" ; Times: 1
+	Query: "dipodomys" ; Times: 1
+	Query: "MCZ 2549" ; Times: 2
+	Query: "country:"Panama" specificepithet:marinus genus:Bufo" ; Times: 5
+	Query: "specificepithet:veliferum genus:Amastridium" ; Times: 1
+	Query: "Cynisca leucura" ; Times: 1
+	Query: "charina bottae bottae" ; Times: 1
+	Query: "Michoacan Arteaga reptilia" ; Times: 1
+	Query: "tissue genus:ameiva" ; Times: 1
+	Query: "country:"Panama" genus:Anadia" ; Times: 2
+	Query: "country:"Panama" genus:Porthidium" ; Times: 1
+	Query: "Michoacan Tepalcatepec reptilia" ; Times: 1
+	Query: "Dalophia longicauda" ; Times: 1
+	Query: "achatinus" ; Times: 1
+	Query: "country:"Panama" specificepithet:melanolomus genus:Mastigodryas" ; Times: 2
+	Query: "Bothriechis" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(34.44542371620826,-119.0643310546875))<7683.905387467147" ; Times: 1
+	Query: "(skull)" ; Times: 1
+	Query: "stomach content" ; Times: 1
+	Query: "country:"libya"" ; Times: 1
+	Query: "bufo marinus 2009" ; Times: 1
+	Query: "sceloporus occidentalis" ; Times: 2
+	Query: "elephant" ; Times: 1
+	Query: "anadia rhombifera" ; Times: 1
+	Query: "2748" ; Times: 1
+	Query: "bufo marinus 2000" ; Times: 1
+	Query: "bufo marinus 2006" ; Times: 1
+	Query: "bufo marinus 2007" ; Times: 2
+	Query: "country:"Panama" genus:Gonatodes" ; Times: 4
+	Query: "county:"Plumas" stateprovince:"California" (peromyscus OR neotoma OR tamias) tissue:1" ; Times: 1
+	Query: "saiphos" ; Times: 1
+	Query: "canada" ; Times: 1
+	Query: "pituophis catenifer" ; Times: 1
+	Query: "gekko" ; Times: 2
+	Query: "country:"Panama" genus:Sibon" ; Times: 1
+	Query: "Porthidium" ; Times: 1
+	Query: "PECTORALIS type:specimen" ; Times: 1
+	Query: "country:"Panama" specificepithet:margaritiferus genus:Drymobius" ; Times: 1
+	Query: "nest" ; Times: 1
+	Query: ""Sauromalus obesus"" ; Times: 1
+	Query: "carnegie" ; Times: 1
+	Query: "Lampropeltis herrerae" ; Times: 4
+	Query: "monrovia" ; Times: 1
+	Query: "MCZ 20661" ; Times: 2
+	Query: "country:"Panama" specificepithet:lignicolor genus:Bolitoglossa" ; Times: 2
+	Query: "country:"Panama" specificepithet:crepitans genus:Hyla" ; Times: 1
+	Query: "Micrurus" ; Times: 1
+	Query: "bufo marinus" ; Times: 23
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "country:"Panama" specificepithet:sila genus:Smilisca" ; Times: 1
+	Query: "stateprovince:"Cocle" country:"Panama" genus:Anolis" ; Times: 1
+	Query: "country:"Panama" specificepithet:carinatus genus:Chironius" ; Times: 1
+	Query: "Thamnophis cyrtopsis stateprovince:"Mexico"" ; Times: 1
+	Query: "chionactis" ; Times: 1
+	Query: "country:"Panama" specificepithet:rabdocephalus genus:Xenodon" ; Times: 1
+	Query: "stateprovince:"Cocle" country:"Panama" genus:Tantilla" ; Times: 1
+	Query: "Gastrotheca riobambae AND (Ecuador) year >= 1970 year <= 2014" ; Times: 1
+	Query: "aspidoscelis gularis" ; Times: 1
+	Query: "Crotaphytus vestigium" ; Times: 1
+	Query: "bufo marinus 2005" ; Times: 1
+	Query: "Micrurus fulvius stateprovince:"Florida"" ; Times: 1
+	Query: "country:"Panama" specificepithet:rapicauda genus:Thecadactylus" ; Times: 3
+	Query: "Sternotherus odoratus" ; Times: 1
+	Query: "country:"Panama" specificepithet:maculata genus:Ninia" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(34.443441808077004,-119.07085418701172))<4176.546295504921" ; Times: 1
+	Query: "country:"Panama" specificepithet:cristatus genus:Corytophanes" ; Times: 1
+	Query: "dasypus" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "country:"Panama" specificepithet:biporcatus genus:Anolis" ; Times: 1
+	Query: "Basiliscus vittatus" ; Times: 1
+	Query: "Apatzingan reptilia" ; Times: 2
+	Query: "country:"Panama" specificepithet:ahaetulla genus:Leptophis" ; Times: 2
+	Query: "notoscincus" ; Times: 1
+	Query: "Chirindia" ; Times: 3
+	Query: "county:"White Pine" stateprovince:"Nevada"" ; Times: 2
+	Query: "specificepithet:achatinus" ; Times: 1
+	Query: "Wolf" ; Times: 1
+	Query: "lampropeltis" ; Times: 1
+	Query: "country:"Panama" genus:Hydromorphus" ; Times: 1
+	Query: "specificepithet:mexicanum genus:ambystoma" ; Times: 3
+	Query: "Cabinda" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 1679 download events in this period)
+Total number of records downloaded: 10890 (out of 895475 records downloaded for all resources in this period)
+Total number of unique records downloaded: 7293
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 14
+	Country: United States ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-01 ; Times: 6
+	Date: 2014-05-05 ; Times: 2
+	Date: 2014-05-06 ; Times: 7
+	Date: 2014-05-15 ; Times: 1
+	Date: 2014-05-16 ; Times: 1
+	Date: 2014-05-17 ; Times: 1
+	Date: 2014-05-18 ; Times: 1
+	Date: 2014-05-20 ; Times: 1
+	Date: 2014-05-21 ; Times: 1
+	Date: 2014-05-22 ; Times: 3
+	Date: 2014-05-27 ; Times: 1
+	Date: 2014-05-29 ; Times: 6
+	Date: 2014-05-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Barisia imbricata stateprovince:"Mexico"" ; Times: 1
+	Query: ""Arizona elegans"" ; Times: 1
+	Query: "Sceloporus aeneus stateprovince:"Mexico"" ; Times: 1
+	Query: "Cynisca" ; Times: 1
+	Query: ""Sauromalus ater"" ; Times: 1
+	Query: "Eryx" ; Times: 1
+	Query: "Eumeces copei" ; Times: 1
+	Query: ""Crotalus cerastes"" ; Times: 1
+	Query: "thamnophis sirtalis virginia" ; Times: 1
+	Query: "Cynisca leucura" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(34.16295449004889,-118.00277709960938))<8154.80069913644" ; Times: 1
+	Query: "monrovia" ; Times: 1
+	Query: "Zacatecas" ; Times: 1
+	Query: "Mulcahy" ; Times: 2
+	Query: "Geocalamus acutus" ; Times: 1
+	Query: "zacatecas sauria" ; Times: 1
+	Query: "Thamnophis eques stateprovince:"Mexico"" ; Times: 1
+	Query: ""Sauromalus obesus"" ; Times: 1
+	Query: "palenque" ; Times: 1
+	Query: "Thamnophis cyrtopsis stateprovince:"Mexico"" ; Times: 1
+	Query: "Nevado de Toluca" ; Times: 2
+	Query: "Micrurus fulvius stateprovince:"Florida"" ; Times: 1
+	Query: "Sceloporus grammicus stateprovince:"Mexico"" ; Times: 1
+	Query: "Thamnophis scalaris stateprovince:"Mexico"" ; Times: 1
+	Query: "phrynosoma" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(34.164090803573146,-118.00689697265625))<8170.3746424486" ; Times: 1
+	Query: "sceloporus torquatus" ; Times: 1
+	Query: ""Masticophis flagellum"" ; Times: 2
+	Query: "genus:Thorius" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(34.166363384737814,-118.01101684570312))<2848.348537124411" ; Times: 1
+	Query: "Michoacan reptilia" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1174
+Total number of records retrieved from searches: 31473
+Number of download events that retrieved data from the resource: 238
+Total number of records downloaded: 103842
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1174
+Total number of records retrieved from searches: 31473
+Number of download events that retrieved data from the resource: 342
+Total number of records downloaded: 214698
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
