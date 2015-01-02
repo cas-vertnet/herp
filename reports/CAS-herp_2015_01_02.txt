@@ -1,0 +1,610 @@
+Report for Institution Code CAS, Resource herp
+Usage stats for December, 2014, generated on 2015/01/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 790
+Number of records retrieved in searches: 29783
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Algeria ; Times: 8
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 3
+	Country: Chile ; Times: 3
+	Country: China ; Times: 1
+	Country: Colombia ; Times: 6
+	Country: Estonia ; Times: 1
+	Country: France ; Times: 5
+	Country: Germany ; Times: 19
+	Country: Italy ; Times: 3
+	Country: Mexico ; Times: 67
+	Country: Portugal ; Times: 17
+	Country: South Africa ; Times: 1
+	Country: Spain ; Times: 10
+	Country: Switzerland ; Times: 1
+	Country: U.S. Virgin Islands ; Times: 2
+	Country: Ukraine ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: United States ; Times: 483
+	Country: Unknown ; Times: 153
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-12-01 ; Times: 53
+	Date: 2014-12-02 ; Times: 67
+	Date: 2014-12-03 ; Times: 75
+	Date: 2014-12-04 ; Times: 39
+	Date: 2014-12-05 ; Times: 60
+	Date: 2014-12-06 ; Times: 13
+	Date: 2014-12-07 ; Times: 9
+	Date: 2014-12-08 ; Times: 25
+	Date: 2014-12-09 ; Times: 30
+	Date: 2014-12-10 ; Times: 33
+	Date: 2014-12-11 ; Times: 22
+	Date: 2014-12-12 ; Times: 30
+	Date: 2014-12-13 ; Times: 6
+	Date: 2014-12-14 ; Times: 8
+	Date: 2014-12-15 ; Times: 26
+	Date: 2014-12-16 ; Times: 14
+	Date: 2014-12-17 ; Times: 22
+	Date: 2014-12-18 ; Times: 15
+	Date: 2014-12-19 ; Times: 16
+	Date: 2014-12-20 ; Times: 7
+	Date: 2014-12-21 ; Times: 11
+	Date: 2014-12-22 ; Times: 12
+	Date: 2014-12-23 ; Times: 15
+	Date: 2014-12-24 ; Times: 27
+	Date: 2014-12-25 ; Times: 15
+	Date: 2014-12-26 ; Times: 64
+	Date: 2014-12-27 ; Times: 38
+	Date: 2014-12-28 ; Times: 3
+	Date: 2014-12-29 ; Times: 5
+	Date: 2014-12-30 ; Times: 25
+	Date: 2014-12-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Rhyacotriton variegatus" ; Times: 1
+	Query: "Plethodon dunni" ; Times: 2
+	Query: "Hylarana albolabris" ; Times: 1
+	Query: "Elaphe dione" ; Times: 1
+	Query: "wisconsin rana sylvatica" ; Times: 2
+	Query: "wyoming" ; Times: 1
+	Query: "Plethodon idahoensis" ; Times: 1
+	Query: "anolis brunneus" ; Times: 1
+	Query: "chalarodon" ; Times: 1
+	Query: "anolis carolinensis" ; Times: 1
+	Query: ""Aneides lugubris" mappable:1" ; Times: 1
+	Query: "Celestus occiduus" ; Times: 2
+	Query: "anolis equestris" ; Times: 1
+	Query: "Rana muscosa" ; Times: 1
+	Query: "rana sylvatica (wisconsin)" ; Times: 1
+	Query: "scaphiopus" ; Times: 1
+	Query: "Uma tissue:1" ; Times: 5
+	Query: "mammal" ; Times: 1
+	Query: "CAS 171960" ; Times: 3
+	Query: "mexico cabo de type:specimen" ; Times: 1
+	Query: "hannsteini" ; Times: 1
+	Query: "index" ; Times: 1
+	Query: "rhyacotriton variegatus" ; Times: 1
+	Query: ""spea intermontana" mappable:1" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 1
+	Query: ""plethodon dunni"" ; Times: 1
+	Query: "Lophognathus tissue:1" ; Times: 2
+	Query: "Salvadora bairdi" ; Times: 1
+	Query: "distance(location,geopoint(37.02009820136811,-122.431640625))<48249" ; Times: 1
+	Query: "Brigham Young University" ; Times: 1
+	Query: "Callisaurus tissue:1" ; Times: 7
+	Query: "specificepithet:rhombifer genus:Drymobius" ; Times: 7
+	Query: "Aneides lugubris Humboldt California" ; Times: 2
+	Query: "Phrynocephalus tissue:1" ; Times: 2
+	Query: "anolis gundlachi tissue:1" ; Times: 1
+	Query: "rana draytonii distance(location,geopoint(38.46219172306828,-122.60604858398438))<100000" ; Times: 2
+	Query: "sceloporus ornatus" ; Times: 1
+	Query: "anolis ophiolepis" ; Times: 3
+	Query: "Batrachoseps" ; Times: 1
+	Query: "aneides lugubris" ; Times: 5
+	Query: "Thamnophis sirtalis cook county" ; Times: 1
+	Query: "perognathus longimembris type:specimen year >= 1990 year <= 2010" ; Times: 1
+	Query: "Anolis brunneus" ; Times: 2
+	Query: "Ensatina eschscholtzii" ; Times: 1
+	Query: "genus:Bogertophis tissue:1" ; Times: 1
+	Query: "Anguis year >= 1980 year <= 2014" ; Times: 1
+	Query: ""spea hammondii" mappable:1" ; Times: 1
+	Query: "rhadinaea kinkelini" ; Times: 1
+	Query: "thamnophis gigas" ; Times: 1
+	Query: "Cophosaurus tissue:1" ; Times: 5
+	Query: "elgaria kingii" ; Times: 1
+	Query: "albolabris year >= 1990 year <= 2014" ; Times: 2
+	Query: "heterodon "new york"" ; Times: 1
+	Query: "(serpentes OR ophidia) year <= 2014 tissue:1" ; Times: 4
+	Query: "hemidactylus frenatus" ; Times: 4
+	Query: "batrachoseps attenuatus (Mendocino county)" ; Times: 1
+	Query: "ambystoma californiense distance(location,geopoint(38.002186798922125,-122.14187622070312))<100000" ; Times: 1
+	Query: "Pseudotriton ruber" ; Times: 1
+	Query: "stateprovince:"California" (Gerrhonotus multicarinatus)" ; Times: 1
+	Query: "Thorius pennatulus" ; Times: 1
+	Query: "rana draytonii" ; Times: 1
+	Query: "Mabuya tissue:1" ; Times: 6
+	Query: "Cynops ensicauda" ; Times: 1
+	Query: "dipsosaurus dorsalis" ; Times: 5
+	Query: "Anolis" ; Times: 1
+	Query: "(serpentes OR ophidia) year <= 2014" ; Times: 1
+	Query: "hyla squirella" ; Times: 1
+	Query: "zanzibar" ; Times: 1
+	Query: "contra costa ambystoma californiense distance(location,geopoint(38.002655740556705,-122.08213806152344))<100000" ; Times: 1
+	Query: "sistrurus catenatus" ; Times: 1
+	Query: "ambystoma californiense distance(location,geopoint(38.01065403598982,-122.15629577636719))<100000" ; Times: 1
+	Query: "crotaphytus bicinctores mappable:1" ; Times: 1
+	Query: "(skull)" ; Times: 1
+	Query: "Xantusia county:"Los Angeles"" ; Times: 1
+	Query: "Boa constrictor" ; Times: 2
+	Query: "plethodon cinereus distance(location,geopoint(46.10370875598025,-84.44091796875))<100000" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "wolf" ; Times: 1
+	Query: "Cnemidophorus martyris" ; Times: 1
+	Query: "sistrurus louisiana" ; Times: 4
+	Query: "mammal type:specimen institutioncode:CAS" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "ambystoma macrodactylum siskiyou county" ; Times: 1
+	Query: "specificepithet:semiannulata genus:Sonora tissue:1" ; Times: 1
+	Query: "cryptobranchus" ; Times: 3
+	Query: "bipes biporus" ; Times: 1
+	Query: "Plethodon elongatus California" ; Times: 1
+	Query: "Aneides lugubris mappable:1" ; Times: 1
+	Query: "CAS 153495" ; Times: 1
+	Query: "Thamnophis radix cook county" ; Times: 1
+	Query: "Plethodon larselli" ; Times: 2
+	Query: "Wyoming" ; Times: 1
+	Query: "Minnesota" ; Times: 1
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "crotalus horridus stateprovince:"New york"" ; Times: 1
+	Query: "nyikae type:specimen class:Reptilia" ; Times: 1
+	Query: "anolis" ; Times: 1
+	Query: "discoglossus pictus" ; Times: 1
+	Query: "Oahu mappable:1" ; Times: 1
+	Query: "Contia Del Norte California" ; Times: 1
+	Query: "gambelia" ; Times: 1
+	Query: "Plethodon cinereus type:specimen" ; Times: 1
+	Query: "Batrachoseps Mendocino California" ; Times: 1
+	Query: "Eublepharis macularius" ; Times: 2
+	Query: "Taricha" ; Times: 1
+	Query: "country:"madagascar" mabuya" ; Times: 1
+	Query: "Plethodontidae AMNH" ; Times: 1
+	Query: "anolis sagrei year >= 1996 year <= 2003 distance(location,geopoint(22.620775114442264,-82.79296875))<330446" ; Times: 1
+	Query: "Dibamus" ; Times: 1
+	Query: "crotalus tigris" ; Times: 1
+	Query: "turtle" ; Times: 1
+	Query: "stateprovince:"California" (Trachemys scripta)" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 3
+	Query: "crotalus molossus" ; Times: 1
+	Query: "fish" ; Times: 1
+	Query: "Ptychadena porosissima" ; Times: 5
+	Query: "Plica tissue:1" ; Times: 3
+	Query: "Lacertidae" ; Times: 1
+	Query: "ambystoma rosaceum" ; Times: 4
+	Query: "stateprovince:"Texas" class:Reptilia" ; Times: 2
+	Query: "bolitoglossa platydactyla" ; Times: 2
+	Query: "hemidactylus turcicus" ; Times: 2
+	Query: "CAS 171959" ; Times: 1
+	Query: "Atelopus country:"Colombia"" ; Times: 4
+	Query: "Peromyscus" ; Times: 1
+	Query: "(egg)" ; Times: 1
+	Query: "Plethodon dunni Del Norte California" ; Times: 2
+	Query: "coleonyx brevis" ; Times: 2
+	Query: "Phrynosoma cornutum country:"Mexico"" ; Times: 1
+	Query: "(egg) AND (NOT Reptilia)" ; Times: 1
+	Query: "Platymantis" ; Times: 1
+	Query: "hyla smaragdina" ; Times: 4
+	Query: "(new guinea) year >= 1990 year <= 2014" ; Times: 1
+	Query: "Emydoidea" ; Times: 1
+	Query: "sea lion" ; Times: 2
+	Query: "Gambelia tissue:1" ; Times: 1
+	Query: "crotalus willardi" ; Times: 1
+	Query: "anotheca spinosa" ; Times: 3
+	Query: "crotalus horridus" ; Times: 1
+	Query: "rana" ; Times: 2
+	Query: "Japalura tissue:1" ; Times: 2
+	Query: "heterodon stateprovince:"new york"" ; Times: 1
+	Query: "Micrurus elegans" ; Times: 1
+	Query: "Uta tissue:1" ; Times: 5
+	Query: "plethodon cinereus mappable:1" ; Times: 2
+	Query: "anolis maynardi" ; Times: 6
+	Query: "Chlamydosaurus" ; Times: 1
+	Query: "Aneides Mendocino California" ; Times: 1
+	Query: "leptotyphlops humilis mappable:1" ; Times: 1
+	Query: "Lampropeltis zonata California" ; Times: 2
+	Query: "elgaria kingii tissue:1" ; Times: 1
+	Query: "Moloch tissue:1" ; Times: 2
+	Query: "testudinidae" ; Times: 1
+	Query: "chrysopelea ornata" ; Times: 3
+	Query: "liophidium" ; Times: 2
+	Query: "spea bombifrons" ; Times: 2
+	Query: "vibora mexico type:specimen" ; Times: 1
+	Query: "rhyacotriton olympicus" ; Times: 1
+	Query: "anolis allisoni" ; Times: 2
+	Query: "specificepithet:zonata genus:Lampropeltis tissue:1" ; Times: 1
+	Query: "atelopus" ; Times: 1
+	Query: "acaponeta" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "KU" ; Times: 1
+	Query: "anolis sagrei year >= 1996 year <= 2003 distance(location,geopoint(27.709471348260408,-81.123046875))<83571" ; Times: 1
+	Query: "Trapelus tissue:1" ; Times: 2
+	Query: "Regina septemvittata stateprovince:"New York"" ; Times: 1
+	Query: "crotalus" ; Times: 3
+	Query: "Aneides" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:catesbeiana genus:Rana" ; Times: 1
+	Query: "Holbrookia tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(-2.1088986592431254,-61.435546875))<100000" ; Times: 1
+	Query: "Coleonyx" ; Times: 2
+	Query: "batrachoseps san francisco year <= 1950" ; Times: 2
+	Query: "lampropeltis zonata mappable:1" ; Times: 1
+	Query: "ptychadena porosissima" ; Times: 1
+	Query: "distance(location,geopoint(37.15156050223665,-122.135009765625))<16514.394477191" ; Times: 1
+	Query: "pleurodeles poireti" ; Times: 2
+	Query: "distance(location,geopoint(36.87962060502676,-118.65234375))<100000" ; Times: 1
+	Query: "aristelliger" ; Times: 2
+	Query: "ensatina nevada county" ; Times: 1
+	Query: "Elgaria coerulea institutioncode:CAS tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(37.36360851770409,-121.9478988647461))<2274.9392071535494" ; Times: 1
+	Query: "ACAPONETA" ; Times: 1
+	Query: "stateprovince:"Nevada"" ; Times: 1
+	Query: "Oahu" ; Times: 1
+	Query: "partida type:specimen" ; Times: 3
+	Query: "Alabama" ; Times: 1
+	Query: "mus" ; Times: 3
+	Query: "Aneides lugubris California" ; Times: 1
+	Query: "dog" ; Times: 1
+	Query: "Taricha torosa Mendocino California" ; Times: 4
+	Query: "hyla arenicolor" ; Times: 1
+	Query: "amphibian" ; Times: 1
+	Query: "ku" ; Times: 1
+	Query: "distance(location,geopoint(17.760893759391507,-64.720458984375))<100000" ; Times: 2
+	Query: "lampropeltis" ; Times: 1
+	Query: "(shelton)" ; Times: 1
+	Query: "Anniella year >= 2010 year <= 2014 tissue:1" ; Times: 1
+	Query: "(amphisbaenia OR dibamidae) year <= 2014 tissue:1" ; Times: 1
+	Query: "masticophis lateralis mappable:1" ; Times: 1
+	Query: "Elgaria coerulea tissue:1" ; Times: 1
+	Query: "nevada" ; Times: 1
+	Query: "Oreophrynella" ; Times: 1
+	Query: "country:"madagascar"" ; Times: 2
+	Query: "Elgaria year >= 2010 year <= 2014 tissue:1" ; Times: 1
+	Query: "fmnh" ; Times: 2
+	Query: "hymenochirus boettgeri" ; Times: 1
+	Query: "Sauromalus tissue:1" ; Times: 9
+	Query: "X mappable:1" ; Times: 1
+	Query: "Fitch "Thamnophis gigas"" ; Times: 1
+	Query: "Irapuato" ; Times: 2
+	Query: "Necturus alabamensis" ; Times: 2
+	Query: "stateprovince:"Texas" specificepithet:odoratus genus:Sternotherus class:Reptilia" ; Times: 3
+	Query: "crotalus ruber mappable:1" ; Times: 1
+	Query: "stateprovince:"Alaska"" ; Times: 1
+	Query: "lerista" ; Times: 1
+	Query: "Aneides lugubris type:specimen year >= 1900" ; Times: 1
+	Query: "Thomomys" ; Times: 1
+	Query: "bufo luetkenii" ; Times: 3
+	Query: "crotalus culminatus" ; Times: 3
+	Query: "hyla arenicolor country:"mexico" mappable:1" ; Times: 4
+	Query: "Pyxidea mouhotii" ; Times: 2
+	Query: "Ctenophorus" ; Times: 1
+	Query: "chalarodon type:specimen" ; Times: 4
+	Query: "Dipsosaurus tissue:1" ; Times: 5
+	Query: "aspidomorphus" ; Times: 1
+	Query: "urosaurus graciosus mappable:1" ; Times: 1
+	Query: "Mabuya type:specimen country:"Sudan" class:Reptilia" ; Times: 1
+	Query: "Aneides lugubris Mendocino California" ; Times: 3
+	Query: "Plethodon elongatus Del Norte California" ; Times: 1
+	Query: "Pseudotrapelus tissue:1" ; Times: 2
+	Query: ""spea bombifrons" mappable:1" ; Times: 1
+	Query: "heterodon" ; Times: 1
+	Query: "distance(location,geopoint(-2.1088986592431254,-61.435546875))<1111944" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "Psammophilus" ; Times: 1
+	Query: "jobs" ; Times: 1
+	Query: "leptodeira nigrofasciata" ; Times: 1
+	Query: "stateprovince:"kentucky" class:reptilia" ; Times: 6
+	Query: "Urosaurus tissue:1" ; Times: 6
+	Query: "eremiascincus" ; Times: 1
+	Query: "stateprovince:"new york" genus:heterodon" ; Times: 1
+	Query: "anolis fuscoauratus" ; Times: 1
+	Query: "Plethodon cinereus mappable:1" ; Times: 1
+	Query: "crotalus horridus stateprovince:"New York"" ; Times: 1
+	Query: "Spea intermontana" ; Times: 1
+	Query: "Sceloporus magister" ; Times: 1
+	Query: "country:"Angola"" ; Times: 1
+	Query: "distance(location,geopoint(37.34941777989473,-121.94686889648438))<2275" ; Times: 1
+	Query: "ambystoma californiense distance(location,geopoint(37.87282984096395,-122.080078125))<13503" ; Times: 1
+	Query: "bufo bufo" ; Times: 1
+	Query: "Aspidoscelis catalinensis" ; Times: 2
+	Query: "ambystoma californiense" ; Times: 6
+	Query: "Plethodon elongatus" ; Times: 1
+	Query: "Cyrtodactylus" ; Times: 1
+	Query: "stateprovince:"Texas"" ; Times: 4
+	Query: "napa" ; Times: 1
+	Query: "feather" ; Times: 3
+	Query: "229265 tissue:1" ; Times: 1
+	Query: "institutioncode:cas" ; Times: 1
+	Query: "Mesaspis" ; Times: 1
+	Query: "ESCUINAPA" ; Times: 2
+	Query: "salvadora bairdi" ; Times: 3
+	Query: "anolis sagrei year >= 1996 year <= 2003 distance(location,geopoint(27.709471348260408,-81.123046875))<100000" ; Times: 1
+	Query: "urosaurus ornatus mappable:1" ; Times: 1
+	Query: "anolis porcatus" ; Times: 1
+	Query: "Necturus alabamensis stateprovince:"Alabama"" ; Times: 1
+	Query: "CAS 166043" ; Times: 1
+	Query: "CHOLUTECA" ; Times: 2
+	Query: "Ophisaurus apodus year >= 1980 year <= 2014" ; Times: 1
+	Query: "Aneides Del Norte California" ; Times: 2
+	Query: "coleonyx fasciatus" ; Times: 1
+	Query: "Gallotia" ; Times: 1
+	Query: "uma inornata mappable:1" ; Times: 1
+	Query: "contra costa ambystoma californiense" ; Times: 1
+	Query: "atelopus colombia" ; Times: 1
+	Query: "Corytophanidae" ; Times: 2
+	Query: "(egg) AND (NOT Aves)" ; Times: 1
+	Query: "Ptyctolaemus tissue:1" ; Times: 1
+	Query: "canada rana sylvatica" ; Times: 2
+	Query: "anolis sagrei Key West distance(location,geopoint(22.214533229762498,-79.013671875))<542095" ; Times: 1
+	Query: "beaver" ; Times: 1
+	Query: "coleonyx reticulatus" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:scripta genus:Trachemys" ; Times: 1
+	Query: "crotalus intermedius" ; Times: 1
+	Query: "anolis sagrei year >= 1996 year <= 2003 distance(location,geopoint(25.82626801619612,-80.947265625))<140813" ; Times: 1
+	Query: "diadophis punctatus mappable:1" ; Times: 1
+	Query: "batrachoseps attenuatus county:"mendocino"" ; Times: 2
+	Query: "stateprovince:"California" (Gerrhonotus multicarinata)" ; Times: 1
+	Query: "Agama" ; Times: 4
+	Query: "crotaphytus vestigium mappable:1" ; Times: 1
+	Query: "necturus" ; Times: 2
+	Query: "sauter" ; Times: 2
+	Query: "Bufo bufo" ; Times: 2
+	Query: "albolabris" ; Times: 1
+	Query: "Hyla regilla" ; Times: 1
+	Query: "Notophthalmus viridescens" ; Times: 1
+	Query: ""Plethodon cinereus"" ; Times: 6
+	Query: "Ophryacus" ; Times: 1
+	Query: "anolis sagrei distance(location,geopoint(22.214533229762498,-79.013671875))<399052.98251300986" ; Times: 1
+	Query: "anolis sagrei Miami distance(location,geopoint(22.214533229762498,-79.013671875))<542095" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 60
+	Query: "anolis sagrei year >= 1996 year <= 2003 distance(location,geopoint(20.742418883001495,-79.98046875))<399053" ; Times: 1
+	Query: "Pseudoeurycea galeanae" ; Times: 1
+	Query: "Eryx" ; Times: 2
+	Query: ""syrrhophus cystignathoides"" ; Times: 1
+	Query: "stateprovince:"California" (Rana catesbeiana)" ; Times: 1
+	Query: "stateprovince:"Texas" genus:Sternotherus class:Reptilia" ; Times: 2
+	Query: "country:"Angola" class:reptilia" ; Times: 2
+	Query: "caudata" ; Times: 1
+	Query: "Ctenosaura similis" ; Times: 3
+	Query: "xenopus" ; Times: 1
+	Query: "axolotl" ; Times: 1
+	Query: "ensatina placer county" ; Times: 1
+	Query: "coleonyx elegans nemoralis" ; Times: 1
+	Query: "chile amphibia" ; Times: 2
+	Query: "Colubridae" ; Times: 2
+	Query: "bufo nelsoni" ; Times: 6
+	Query: "Polychrus tissue:1" ; Times: 6
+	Query: "vibora" ; Times: 1
+	Query: "grizzly" ; Times: 1
+	Query: "Crotalus willardi stateprovince:"Arizona"" ; Times: 1
+	Query: "Elgaria coerulea institutioncode:CAS" ; Times: 1
+	Query: "Tiger Salamander" ; Times: 3
+	Query: "aneides lugubris mappable:1" ; Times: 1
+	Query: "mabuya madagascar" ; Times: 1
+	Query: "Bufo" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "distance(location,geopoint(37.38120676237962,-121.95768356323242))<983.9556608450865" ; Times: 1
+	Query: "alytes obstetricans" ; Times: 2
+	Query: "country:"Panama" genus:Coniophanes" ; Times: 2
+	Query: "type:specimen year >= 1800 year <= 1900" ; Times: 1
+	Query: "stateprovince:"Texas" specificepithet:odoratus genus:Sternotherus class:Reptilia year >= 2000 year <= 2014" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "(amphisbaenia) year <= 2014 tissue:1" ; Times: 1
+	Query: "xantusia henshawi mappable:1" ; Times: 1
+	Query: "county:"erath" stateprovince:"texas"" ; Times: 1
+	Query: "Montana" ; Times: 1
+	Query: "Imantodes" ; Times: 1
+	Query: "candoia bibroni" ; Times: 1
+	Query: "turkey" ; Times: 1
+	Query: "aneides flavipunctatus" ; Times: 1
+	Query: "corn" ; Times: 1
+	Query: "Elgaria coerulea year >= 1980 year <= 2014 tissue:1" ; Times: 1
+	Query: "anolis sagrei distance(location,geopoint(22.214533229762498,-79.013671875))<542095" ; Times: 1
+	Query: "Ophisaurus gracilis year >= 1980 year <= 2014" ; Times: 1
+	Query: "Aneides lugubris" ; Times: 3
+	Query: "odoratus" ; Times: 1
+	Query: "Plethodon vandykei" ; Times: 1
+	Query: "virus" ; Times: 2
+	Query: "batrachoseps county:"san francisco" year <= 1900" ; Times: 2
+	Query: "Sceloporus tissue:1" ; Times: 3
+	Query: "Xantusia vigilis" ; Times: 1
+	Query: "isla partida" ; Times: 2
+	Query: "mabuya tissue:1" ; Times: 1
+	Query: "Kiester" ; Times: 1
+	Query: "fisher" ; Times: 2
+	Query: "batrachoseps san francisco year <= 1900" ; Times: 1
+	Query: "charina bottae mappable:1" ; Times: 1
+	Query: "sceloporus orcutti mappable:1" ; Times: 1
+	Query: "mississippi" ; Times: 1
+	Query: "Phrynosoma tissue:1" ; Times: 5
+	Query: "genus:Salvadora tissue:1" ; Times: 3
+	Query: "elaphe" ; Times: 1
+	Query: "distance(location,geopoint(37.02009820136811,-122.431640625))<100000" ; Times: 1
+	Query: "ptychadena" ; Times: 1
+	Query: "fork" ; Times: 1
+	Query: "mabuya country:"madagascar"" ; Times: 1
+	Query: "liolaemus" ; Times: 1
+	Query: "heterodon new york" ; Times: 1
+	Query: "trimorphodon biscutatus" ; Times: 1
+	Query: "mexico alcatraz type:specimen" ; Times: 1
+	Query: "specificepithet:cerastes genus:Crotalus tissue:1" ; Times: 1
+	Query: "Z" ; Times: 1
+	Query: "egg collection" ; Times: 1
+	Query: "distance(location,geopoint(37.15156050223665,-122.135009765625))<8594" ; Times: 1
+	Query: "distance(location,geopoint(37.02009820136811,-122.431640625))<16514" ; Times: 1
+	Query: "Bell" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis tissue:1" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 70
+	Query: "rana areolata" ; Times: 1
+	Query: "anolis sagrei" ; Times: 3
+	Query: "Sauromalus ater" ; Times: 1
+	Query: "Crotaphytus tissue:1" ; Times: 1
+	Query: "stateprovince:"kentucky" class:amphibia" ; Times: 1
+	Query: "Plethodon" ; Times: 2
+	Query: "Lepidodactylus lugubris (Oahu) mappable:1" ; Times: 1
+	Query: "Thamnophis gigas stateprovince:"California" year <= 2014 mappable:1" ; Times: 1
+	Query: "testudo" ; Times: 1
+	Query: "bufo mauritanicus" ; Times: 5
+	Query: "ambystoma californiense distance(location,geopoint(37.73828604950035,-122.0361328125))<16433" ; Times: 1
+	Query: "year >= 1800 year <= 1980" ; Times: 1
+	Query: "country:"Canada"" ; Times: 3
+	Query: "Goniurosaurus" ; Times: 2
+	Query: "stateprovince:"kentucky" class:amphibia institutioncode:cas" ; Times: 1
+	Query: "senckenberg" ; Times: 1
+	Query: "kansas" ; Times: 1
+	Query: "Ophisaurus year >= 1980 year <= 2014" ; Times: 4
+	Query: "plethodon cinereus mappable:1 distance(location,geopoint(44.736742697182635,-34.62890625))<2512657" ; Times: 1
+	Query: "holcosus undulatus" ; Times: 5
+	Query: "tantilla mappable:1" ; Times: 1
+	Query: "anolis sagrei year >= 1996 year <= 2003 distance(location,geopoint(27.709471348260408,-81.123046875))<206032" ; Times: 1
+	Query: "anniella pulchra" ; Times: 1
+	Query: "Ctenophorus tissue:1" ; Times: 2
+	Query: "Crotalus horridus" ; Times: 1
+	Query: "plethodon elongatus elongatus" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:coronatum genus:Phrynosoma" ; Times: 1
+	Query: "Sternotherus odoratus" ; Times: 3
+	Query: "micrurus fulvius" ; Times: 1
+	Query: "phyllorhynchus decurtatus mappable:1" ; Times: 1
+	Query: "county:"San Juan" stateprovince:"Utah"" ; Times: 1
+	Query: "Pseudocalotes tissue:1" ; Times: 2
+	Query: "Irapuato Amphibia" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:multicarinata genus:Elgaria" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 71 (out of 238 download events in this period)
+Total number of records downloaded: 38286 (out of 1054698 records downloaded for all resources in this period)
+Total number of unique records downloaded: 31432
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Algeria ; Times: 3
+	Country: Brazil ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Mexico ; Times: 9
+	Country: Portugal ; Times: 4
+	Country: South Africa ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Ukraine ; Times: 1
+	Country: United States ; Times: 48
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-12-01 ; Times: 2
+	Date: 2014-12-02 ; Times: 4
+	Date: 2014-12-03 ; Times: 5
+	Date: 2014-12-04 ; Times: 2
+	Date: 2014-12-05 ; Times: 9
+	Date: 2014-12-07 ; Times: 1
+	Date: 2014-12-08 ; Times: 2
+	Date: 2014-12-09 ; Times: 2
+	Date: 2014-12-10 ; Times: 5
+	Date: 2014-12-11 ; Times: 3
+	Date: 2014-12-12 ; Times: 5
+	Date: 2014-12-15 ; Times: 1
+	Date: 2014-12-16 ; Times: 4
+	Date: 2014-12-19 ; Times: 1
+	Date: 2014-12-21 ; Times: 1
+	Date: 2014-12-22 ; Times: 2
+	Date: 2014-12-23 ; Times: 2
+	Date: 2014-12-24 ; Times: 13
+	Date: 2014-12-26 ; Times: 4
+	Date: 2014-12-27 ; Times: 1
+	Date: 2014-12-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Ophryacus" ; Times: 1
+	Query: "county:"Coconino" stateprovince:"Arizona"" ; Times: 1
+	Query: "county:"Socorro" stateprovince:"New Mexico"" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "mabuya tissue:1" ; Times: 1
+	Query: "rhyacotriton olympicus" ; Times: 1
+	Query: "Aneides" ; Times: 2
+	Query: "county:"San Juan" stateprovince:"Utah"" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "rana sevosa" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:catesbeiana genus:Rana" ; Times: 1
+	Query: "Elaphe dione" ; Times: 1
+	Query: "trachylepis mappable:1" ; Times: 1
+	Query: "stateprovince:"California" (Rana catesbeiana)" ; Times: 1
+	Query: "Aneides Mendocino California" ; Times: 1
+	Query: "Lacertidae" ; Times: 1
+	Query: "Plethodon elongatus" ; Times: 1
+	Query: "rana areolata" ; Times: 1
+	Query: "Aneides lugubris Mendocino California" ; Times: 1
+	Query: "rhyacotriton variegatus" ; Times: 1
+	Query: "bufo mauritanicus" ; Times: 3
+	Query: "Plethodon neomexicanus" ; Times: 1
+	Query: ""spea intermontana" mappable:1" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 1
+	Query: ""plethodon dunni"" ; Times: 1
+	Query: "wyoming" ; Times: 1
+	Query: "eleutherodactylus occidentalis" ; Times: 1
+	Query: "molossus tissue:1" ; Times: 1
+	Query: "Aneides lugubris genus:Aneides mappable:1" ; Times: 1
+	Query: "country:"kiribati" year >= 1800 year <= 1962" ; Times: 1
+	Query: "scincidae distance(location,geopoint(-19.062117883514652,47.57080078125))<414880.1968846871" ; Times: 1
+	Query: "Imantodes" ; Times: 1
+	Query: "county:"Cibola" stateprovince:"New Mexico"" ; Times: 1
+	Query: "mabuya country:"madagascar"" ; Times: 1
+	Query: "anotheca spinosa" ; Times: 1
+	Query: "(serpentes OR ophidia) year <= 2014 tissue:1" ; Times: 1
+	Query: "batrachoseps attenuatus (Mendocino county)" ; Times: 1
+	Query: "ambystoma californiense" ; Times: 1
+	Query: "Batrachoseps Mendocino California" ; Times: 1
+	Query: "sauter" ; Times: 1
+	Query: "trimorphodon biscutatus" ; Times: 1
+	Query: "salvadora bairdi" ; Times: 1
+	Query: "county:"McKinley" stateprovince:"New Mexico"" ; Times: 1
+	Query: "Plethodon larselli" ; Times: 1
+	Query: "Taricha" ; Times: 1
+	Query: "county:"Sandoval" stateprovince:"New Mexico"" ; Times: 1
+	Query: "Rana muscosa" ; Times: 1
+	Query: "Baiomys taylori" ; Times: 1
+	Query: "Thorius pennatulus" ; Times: 1
+	Query: "hyla smaragdina" ; Times: 1
+	Query: "spea bombifrons" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:coronatum genus:Phrynosoma" ; Times: 1
+	Query: "mabuya mappable:1" ; Times: 1
+	Query: "micrurus fulvius" ; Times: 1
+	Query: "Batrachoseps campi" ; Times: 1
+	Query: "county:"Navajo" stateprovince:"Arizona"" ; Times: 1
+	Query: "Batrachoseps" ; Times: 1
+	Query: "county:"Apache" stateprovince:"Arizona"" ; Times: 1
+	Query: "crotalus willardi" ; Times: 1
+	Query: "Aneides Del Norte California" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "stateprovince:"California" specificepithet:multicarinata genus:Elgaria" ; Times: 1
+	Query: "testudinidae" ; Times: 1
+	Query: "aneides flavipunctatus" ; Times: 1
+	Query: "ambystoma rosaceum" ; Times: 3
+	Query: "county:"San Juan" stateprovince:"New Mexico"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 5233
+Total number of records retrieved from searches: 144075
+Number of download events that retrieved data from the resource: 581
+Total number of records downloaded: 429019
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 5233
+Total number of records retrieved from searches: 144075
+Number of download events that retrieved data from the resource: 685
+Total number of records downloaded: 539875
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
